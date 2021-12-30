@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class KdvTurar {
 
     public static void main(String[] args) {

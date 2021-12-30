@@ -30,6 +30,7 @@ public class NotOrtalama {
         muzik =input.nextInt();
         double ortalama = (mat+fizik+kimya+turkce+tarih+muzik)/6;
 
+        //Ortalama ve Geçme Durumunu yazdır
         System.out.println("Not Ortalamanız : "+ ortalama );
         System.out.println(ortalama >= 60 ? "Sınıfı Geçti":" Sınıfta Kaldı");
 

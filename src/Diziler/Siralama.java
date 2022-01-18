@@ -18,10 +18,7 @@ public class Siralama {
             list[i] = inp.nextInt();
         }
 
-
-
-
-
+        Arrays.sort(list);
         System.out.println(Arrays.toString(list));
 
     }

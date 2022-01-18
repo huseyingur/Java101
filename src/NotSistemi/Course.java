@@ -1,4 +1,4 @@
-package Siniflar;
+package NotSistemi;
 
 public class Course {
     Teacher courseTeacher;
